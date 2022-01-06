@@ -64,10 +64,12 @@
 
 
 
-
+.miss44{
+    padding-top: 0px;
+}
 .miss{
     margin-left: 100px;
-    margin-top: 50px;
+  padding-top: 100px;
 }
 
 
@@ -141,4 +143,116 @@
 }
 .box3 p{
     margin-left: 20px;
+}
+   
+
+
+.third1{
+    display: flex;
+}
+
+
+.upp1
+{
+    width: 50%;
+
+}
+.upp1 img{
+    width: 70%;
+    height: 400px;
+    margin-left: 100px;
+}
+.upp2{
+    width: 50%;
+}
+.on11{
+    margin-top: 50px;
+    color: brown;
+    font-size: 60px;
+    font-weight: 700;
+}
+.on12{
+    font-size: 22px;
+  
+    margin-right: 350px;
+}
+
+
+
+
+.fourth{
+    display: flex;
+}
+.upp22{
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 150px;
+}
+.upp23{
+    font-size: 60px;
+    font-weight: 700;
+    color: darkgoldenrod;
+    margin-top: 150px;
+}
+.upp24{
+    font-size: 22px;
+    margin-right: 50px;
+}
+
+
+.upp26 {
+    width: 50%;
+
+}
+.upp26 img{
+    width: 80%;
+    margin-top: 100px;
+    margin-right: 150px;
+    height: 400px;
+
+}
+
+
+
+
+.fifth{
+    display: flex;
+    margin-top: 100px;
+}
+.covid img{
+width: 70%;
+margin-left: 100px;
+}
+.up66{
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 50px;
+    color: indigo;
+}
+.up77{
+font-size: 22px;
+margin-right: 50px;
+}
+.covidp {
+    width: 50%;
+}
+
+
+
+footer{
+    background-color: black;
+    height: 150px;
+    color: ivory;
+ 
+    margin-top: 30px;
+  
+}
+.div6{
+   
+    padding-top: 20px;
+    margin-left: 600px;
+}
+
+.upp00{
+    color: maroon;
 }
